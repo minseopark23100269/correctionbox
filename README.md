@@ -58,6 +58,6 @@ My simple camera calibration and  distortion correction project
 
 ### 데모 결과
 
-![이미지 설명]("data/Cap 2025-04-08 18-47-31-936.jpg")
+![이미지 설명](data/Cap%202025-04-08%2018-47-31-936.jpg)
 
 
