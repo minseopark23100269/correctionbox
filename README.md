@@ -57,6 +57,6 @@ My simple camera calibration and  distortion correction project
 - 렌즈 왜곡이 제거되어 체스보드가 직선으로 보입니다.
 
 ### 데모 결과
-![이미지](/data/Cap%2025-04-08%18-47-31-936.jpg)
+![이미지](data/Cap%2025-04-08%18-47-31-936.jpg)
 
 
